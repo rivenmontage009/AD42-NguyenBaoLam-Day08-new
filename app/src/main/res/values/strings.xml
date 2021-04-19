@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Homework Day08</string>
+    <string name="btn_save_add_contact">Save</string>
+
+    <string name="add_error_phone_length">Số điện thoại vừa nhập chưa đủ 10 chữ số</string>
+    <string name="add_error">Bạn chưa nhập tên hoặc số điện thoại</string>
+    <string name="add_successful">Thêm thành công</string>
+
+</resources>
